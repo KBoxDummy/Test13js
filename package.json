@@ -1,0 +1,18 @@
+{
+  "name": "test13js",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Test13js"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "KBoxDummy",
+  "license": "MIT"
+}
